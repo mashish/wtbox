@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Modified
+=======
+Begining was missing
+>>>>>>> Simplechanges
 This is some text
 
 
 Anothter Deployment
+updated at 8:37
