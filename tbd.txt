@@ -4,3 +4,4 @@ Modified
 Begining was missing
 >>>>>>> Simplechanges
 This is some text
+Second update in Feature1 
